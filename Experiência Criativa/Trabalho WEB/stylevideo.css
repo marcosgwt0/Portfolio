@@ -1,0 +1,20 @@
+.video {
+ display: flex;
+ justify-content: center;
+ align-content: center;
+ padding-top: 80;
+ border-radius: 7px;
+ background-size: 4 ;
+ border-color: black;
+}
+
+body{
+    background-color: cadetblue;
+}
+
+.rect{
+    float:left;
+    height: 50px; /* or whatever you want */
+    position:relative;
+    width: 50px;
+}

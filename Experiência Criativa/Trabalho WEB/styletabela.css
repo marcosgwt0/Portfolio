@@ -1,0 +1,18 @@
+h1{
+    background-color: gainsboro;
+} 
+body{
+    background-image: url("skynight.jpg");
+    background-size: cover;
+}
+.botao{
+    padding-inline: 30px; /* added */
+    padding-block: 7px;   /* added*/
+    outline: none;       /* added */
+    border-radius: 7px;
+    font-weight: bold;
+    color: black;
+    background-color: gray;
+    border: 2px solid black; /* added */ 
+    flex-shrink: 0;
+}

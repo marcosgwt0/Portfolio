@@ -1,0 +1,24 @@
+.gorilla{
+    height:300;
+    width:300;
+    padding-left: 50;
+}
+.duck{
+    height: 300;
+    width: 300;
+}
+.seal{
+    height: 300;
+    width: 300;
+}
+.cockroach{
+    height: 300;
+    width: 300;
+}
+.imagens{
+    display: flexbox;
+    padding-top: 150;
+}
+body{
+    background-color: blue;
+}

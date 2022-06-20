@@ -1,0 +1,4 @@
+Colocar pasta dentro da pasta HTDOCS do Xampp nos arquivos do computador.
+
+No navegador digitar localhost/dashboard
+a partir do dashboard trocar a url para o diretorio do arquivo html

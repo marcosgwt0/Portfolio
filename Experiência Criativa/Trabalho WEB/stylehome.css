@@ -1,0 +1,30 @@
+body{
+    width: 600px;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+    margin:auto;
+    max-width: max-content;
+    padding-top: 150;
+}
+
+a:link, a:visited {
+    padding-inline: 30px; /* added */
+    padding-block: 7px;   /* added*/
+    outline: none;       /* added */
+    border-radius: 7px;
+    font-weight: bold;
+    color: black;
+    background-color: gray;
+    border: 2px solid black; /* added */ 
+    flex-shrink: 0;
+    font-size: 35px;
+    text-decoration: none;
+}
+
+html{
+    background-image: url("./home spin.gif");
+    background-size: cover;
+    box-shadow: 5px 10px;
+}
+
+
